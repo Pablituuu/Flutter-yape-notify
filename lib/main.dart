@@ -11,7 +11,7 @@ class YapeNotificacionesApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Yape Notify',
+      title: 'Yape Pablituuu',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         brightness: Brightness.dark,

@@ -231,7 +231,7 @@ class _HomeScreenState extends State<HomeScreen> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
-                  _buildLogoImage('assets/images/logo.png', width: 70.0, height: 70.0),
+                  _buildLogoImage('assets/images/app_icon.png', width: 70.0, height: 70.0),
                   const Padding(
                     padding: EdgeInsets.symmetric(horizontal: 16.0),
                     child: Text('+', style: TextStyle(fontSize: 24.0, fontWeight: FontWeight.bold, color: Colors.grey)),
